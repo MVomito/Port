@@ -1,1 +1,69 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showBlog":true,"darkMode":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."},{"id":"05f6299a-ebed-4bc2-b5ab-584ebd8787cc","title":"New Service","description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."}
+{
+    "name": "Maxime",
+    "headerTaglineOne": "Bonjour !",
+    "headerTaglineTwo": "Je suis Maxime Routhier-Linteau",
+    "headerTaglineThree": "Junior Full-Stack, Designer",
+    "showBlog": false,
+    "socials": [
+        {
+            "title": "Github",
+            "link": "https://github.com/MVomito"
+        },
+        {
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/maxime-routhier-linteau-7b316121b/"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Site pour Polygraph",
+            "description": "Projet Wordpress J'ai desginer est monter se site web pour le groupe de music metal POLYGRAPH, Un projet que jai vraiment adorer faire.",
+            "imageSrc": "./images/polygraph.png",
+            "url": "https://max-routhier-linteau.ca/"
+        },
+
+        {
+            "id": "2",
+            "title": "Site pour Shred-Fest",
+            "description": "Projet Wordpress concu dans le but de promouvoir le festival. Travailler avec les organisateur pour monter ce site web a été une experience unique",
+            "imageSrc": "./images/shredfest.png",
+            "url": "https://shred-fest.max-routhier-linteau.ca/"
+        },
+
+        {
+            "id": "3",
+            "title": "Refonte de la Bibliotheque de Montreal",
+            "description": "Dans le cadre de ma formation chez",
+            "imageSrc": "./images/shredfest.png",
+            "url": "https://shred-fest.max-routhier-linteau.ca/"
+        }
+
+        
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Web Designer",
+            "description": "Au courant de ma formation chez O'sullivan j'ai appris à travailler avec Photoshop XD et illustrateur "
+        },
+        {
+            "id": "2",
+            "title": "Identiter visuel ",
+            "description": "Creér une identité visuelle a été au centre de ma formation j'ai accumulé une expertise après plusieurs projets."
+        },
+        {
+            "id": "3",
+            "title": "Developement Front-end",
+            "description": "Au courant de mon parcours j'ai appris à utiliser plusieurs langages de programmation et  à les exploiter au meilleur de mes capacités j'ai encore beaucoup à apprendre mais confiant avec mes capacités actuelles"
+        },
+
+        {
+            "id": "4",
+            "title": "Developement Back-end",
+            "description": "Au courant de mon parcours j'ai appris à utiliser plusieurs langages de programmation et à les exploiter au meilleur de mes capacités j'ai encore beaucoup à apprendre mais confiant avec mes capacités actuelles"
+        }
+    ],
+    "aboutpara": "J’ai fait pour la plupart de mon parcours professionnel. Les petits boulots ici et là ne sans pas vraiment satisfaits de ce que je faisais. En 2021, j'ai décidé de retourner aux études pour me familiariser avec le monde du développement Web sans savoir que j'y trouverais une véritable passion. Je suis rapidement tombé sous le charme de ce monde rempli de mystères et de connaissances demandant à être appris. un monde infini de possibilités où apprendre fait partie du quotidien de tous. un monde en perpétuel changement."
+    
+}

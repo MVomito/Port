@@ -7,8 +7,6 @@ import { useIsomorphicLayoutEffect } from "../utils";
 import { stagger } from "../animations";
 import Footer from "../components/Footer";
 import Head from "next/head";
-import Button from "../components/Button";
-import Link from "next/link";
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -53,13 +51,6 @@ export default function Home() {
         <title>{data.name}</title>
       </Head>
       {/* This button should not go into production */}
-      {process.env.NODE_ENV === "development" && (
-        <div className="fixed bottom-5 right-5">
-          <Link href="/edit">
-            <Button type="primary">Edit Data</Button>
-          </Link>
-        </div>
-      )}
 
       <div className="container mx-auto mb-10">
         <Header
@@ -97,7 +88,7 @@ export default function Home() {
           <Socials className="mt-2 laptop:mt-5" />
         </div>
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-          <h1 className="text-2xl text-bold">Work.</h1>
+          <h1 className="text-2xl text-bold">Mes Projets</h1>
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
             {data.projects.map((project) => (
               <WorkCard
@@ -111,7 +102,7 @@ export default function Home() {
           </div>
         </div>
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
-          <h1 className="tablet:m-10 text-2xl text-bold">Services.</h1>
+          <h1 className="tablet:m-10 text-2xl text-bold">Ce que je peux Offrir</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
             {data.services.map((service, index) => (
               <ServiceCard
@@ -123,7 +114,7 @@ export default function Home() {
           </div>
         </div>
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
-          <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
+          <h1 className="tablet:m-10 text-2xl text-bold">Qui suis-je ? </h1>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
             {data.aboutpara}
           </p>
