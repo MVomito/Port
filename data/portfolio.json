@@ -22,7 +22,6 @@
             "imageSrc": "./images/polygraph.png",
             "url": "https://max-routhier-linteau.ca/"
         },
-
         {
             "id": "2",
             "title": "Site pour Shred-Fest",
@@ -34,18 +33,41 @@
         {
             "id": "3",
             "title": "Refonte de la Bibliotheque de Montreal",
-            "description": "Dans le cadre de ma formation chez",
-            "imageSrc": "./images/shredfest.png",
-            "url": "https://shred-fest.max-routhier-linteau.ca/"
+            "description": "Dans le cadre de ma formation chez O'sullivan jai dut designer la refonte total du site web de la Bibliotheque de Montreal.",
+            "imageSrc": "./images/Screenshot_2.png",
+            "url": "https://xd.adobe.com/view/86148843-eb9e-4726-860f-6bbca894a21c-d347/"
+        },
+
+        {
+            "id": "4",
+            "title": "Refonte de la la Choppe Gobline",
+            "description": "Encore une fois, Dans le cadre de ma formation chez O'sullivan jai eu le plasire de faire la refonte du site web du restaurant La Choppe Gobline",
+            "imageSrc": "./images/Screenshot_3.png",
+            "url": "https://xd.adobe.com/view/86148843-eb9e-4726-860f-6bbca894a21c-d347/"
+        },
+        
+        {
+            "id": "5",
+            "title": "Travaux Finale APP React ( lien a venir )",
+            "description": "Une fois de plus, Dans le cadre de ma formation chez O'sullivan jai travailler avec 2 autre de mes Coquequipier pour realiser ensemble une app react",
+            "imageSrc": "./images/Screenshot_4.png",
+            "url": "/"
+        },
+
+        {
+            "id": "6",
+            "title": "Logo pour une garderie fictive",
+            "description": "Dans ma deuxieme session d'etude jai realiser un logo pour une garderie fictive.",
+            "imageSrc": "./images/Screenshot_5.png",
+            "url": "/"
         }
 
-        
     ],
     "services": [
         {
             "id": "1",
             "title": "Web Designer",
-            "description": "Au courant de ma formation chez O'sullivan j'ai appris à travailler avec Photoshop XD et illustrateur "
+            "description": "Au courant de ma formation chez O'sullivan j'ai appris à travailler avec Photoshop XD et illustrateur"
         },
         {
             "id": "2",
@@ -55,15 +77,13 @@
         {
             "id": "3",
             "title": "Developement Front-end",
-            "description": "Au courant de mon parcours j'ai appris à utiliser plusieurs langages de programmation et  à les exploiter au meilleur de mes capacités j'ai encore beaucoup à apprendre mais confiant avec mes capacités actuelles"
+            "description": "Au courant de mon parcours j'ai appris à utiliser plusieurs langages de programmation et  à les exploiter au meilleur de mes capacités j'ai encore beaucoup à apprendre mais confiant avec mes capacités actuelles."
         },
-
         {
             "id": "4",
             "title": "Developement Back-end",
             "description": "Au courant de mon parcours j'ai appris à utiliser plusieurs langages de programmation et à les exploiter au meilleur de mes capacités j'ai encore beaucoup à apprendre mais confiant avec mes capacités actuelles"
         }
     ],
-    "aboutpara": "J’ai fait pour la plupart de mon parcours professionnel. Les petits boulots ici et là ne sans pas vraiment satisfaits de ce que je faisais. En 2021, j'ai décidé de retourner aux études pour me familiariser avec le monde du développement Web sans savoir que j'y trouverais une véritable passion. Je suis rapidement tombé sous le charme de ce monde rempli de mystères et de connaissances demandant à être appris. un monde infini de possibilités où apprendre fait partie du quotidien de tous. un monde en perpétuel changement."
-    
+    "aboutpara": "J’ai fait pour la plupart de mon parcours professionnel. Les petits boulots ici et là ne sans pas vraiment satisfaits de ce que je faisais. En 2021, j'ai décidé de retourner aux études pour me familiariser avec le monde du développement Web sans savoir que j'y trouverais une véritable passion. Je suis rapidement tombé sous le charme de ce monde rempli de mystères et de connaissances demandant à être appris. un monde infini de possibilités ou apprendre fait partie du quotidien de tous. un monde en perpétuel changement."
 }
